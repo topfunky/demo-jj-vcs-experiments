@@ -6,7 +6,7 @@ Experiments with the Jujutsu VCS system
 
 ### 22:12
 
-A change that will be pushed to a bookmark with a custom prefix.
+A change that was pushed to a bookmark with a custom prefix.
 
 ### 20:15
 
