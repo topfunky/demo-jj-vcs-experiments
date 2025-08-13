@@ -4,6 +4,10 @@ Experiments with the Jujutsu VCS system
 
 ## CHANGELOG
 
+### Edit 5
+
+Edit in stacked PR.
+
 ### 21:41
 
 An edit to a change that descends from the `topfunky-patch-1` bookmark.
