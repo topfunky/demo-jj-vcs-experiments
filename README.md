@@ -8,9 +8,17 @@ Experiments with the Jujutsu VCS system
 
 Edit in stacked PR.
 
+### 22:12
+
+A change that will be pushed to a bookmark with a custom prefix.
+
 ### 21:41
 
 An edit to a change that descends from the `topfunky-patch-1` bookmark.
+
+### 21:35
+
+An edit in a new change, descending from `main` but not pushed to remote.
 
 ### 21:30
 
