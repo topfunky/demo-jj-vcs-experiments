@@ -4,6 +4,10 @@ Experiments with the Jujutsu VCS system
 
 ## CHANGELOG
 
+### Edit 8^2
+
+An edit to another bookmark. Will `git push` with the other edited bookmark to see what happens.
+
 ### Edit 8
 
 Second in the PR stack.
