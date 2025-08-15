@@ -4,6 +4,10 @@ Experiments with the Jujutsu VCS system
 
 ## CHANGELOG
 
+### Edit 7''
+
+Another edit in the sequence of the main PR bookmark.
+
 ### Edit 7'
 
 An edit on top of the first in the stacked PR setup.
