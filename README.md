@@ -4,6 +4,10 @@ Experiments with the Jujutsu VCS system
 
 ## CHANGELOG
 
+### Edit 7^4
+
+Edit with gpg signing.
+
 ### Edit 7^3
 
 Edit two bookmarks at once and `git push` to see what happens.
