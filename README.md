@@ -4,9 +4,25 @@ Experiments with the Jujutsu VCS system
 
 ## CHANGELOG
 
-### Edit 5
+### Edit 7^4
 
-Edit in stacked PR.
+Edit with gpg signing.
+
+### Edit 7^3
+
+Edit two bookmarks at once and `git push` to see what happens.
+
+### Edit 7''
+
+Another edit in the sequence of the main PR bookmark.
+
+### Edit 7'
+
+An edit on top of the first in the stacked PR setup.
+
+### Edit 7
+
+Edit as first PR in eventual stacked PR setup.
 
 ### 22:12
 
