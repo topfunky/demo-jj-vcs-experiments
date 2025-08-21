@@ -14,7 +14,7 @@ Second new absorbable line in the PR stack.
 
 ### Edit 7^4
 
-Edit with gpg signing.
+Edit new absorbable line with gpg signing.
 
 ### Edit 7^3
 
