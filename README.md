@@ -6,7 +6,7 @@ Experiments with the Jujutsu VCS system
 
 ### Edit 8^2
 
-An edit to another bookmark. Will `git push` with the other edited bookmark to see what happens.
+A new absorbable edit to another bookmark. Will `git push` with the other edited bookmark to see what happens.
 
 ### Edit 8
 
