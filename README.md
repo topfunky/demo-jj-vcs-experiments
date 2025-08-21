@@ -10,7 +10,7 @@ A new absorbable edit to another bookmark. Will `git push` with the other edited
 
 ### Edit 8
 
-Second in the PR stack.
+Second new absorbable line in the PR stack.
 
 ### Edit 7^4
 
